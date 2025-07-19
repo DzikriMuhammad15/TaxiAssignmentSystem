@@ -1,0 +1,13 @@
+# Ignore virtual environments
+/venv/
+/BackEnd/venv/
+/Order_rate_simulation_backend_60_base/venv/
+/Order_rate_simulation_backend/venv/
+/Gmaps_bakend_simulation/venv/
+
+# Ignore node_modules
+/QR_Generator/node_modules/
+/mobileTugasAkhir/node_modules/
+/FrontEnd/node_modules/
+
+/simulation/skema/*.png
