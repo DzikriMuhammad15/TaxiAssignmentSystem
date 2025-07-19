@@ -11,3 +11,5 @@
 /FrontEnd/node_modules/
 
 /simulation/skema/*.png
+
+/osrm-data
